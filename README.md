@@ -49,5 +49,8 @@ $$ Q(s,a) \leftarrow Q(s,a) + \alpha \big[ r + \gamma \max_{a'} Q(s',a') - Q(s,a
 - **Environment Adjustments**:
   - Environment setup was modified for video recording and rendering.
 
+ ![image](https://github.com/user-attachments/assets/5deb5846-7257-4dbc-9c33-577ca1c62a52)
+
+
 ## References
 - **CartPole Basics**: Inspired by concepts from the lectures and adapted from [Using Q-Learning for OpenAI's CartPole](https://medium.com/swlh/using-q-learning-for-openais-cartpole-v1-4a216ef237df).
